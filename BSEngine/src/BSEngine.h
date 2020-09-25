@@ -3,7 +3,8 @@
 //For use in client applications
 
 #include "BSEngine/Application.h"
+#include "BSEngine/log.h"
 
-//---Entry Point-----
+//---Entry Point-----------------
 #include "BSEngine/EntryPoint.h"
-//-------------------
+//-------------------------------

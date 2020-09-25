@@ -8,7 +8,7 @@ namespace BSEngine
 	{
 	public:
 		Application();
-		~Application();
+		virtual ~Application();
 
 		void Run();
 	};
